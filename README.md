@@ -41,20 +41,3 @@ As a Data Professional with a Master of Science in Business Analytics, I created
 * **Deep Learning:** TensorFlow, PyTorch, Keras
 * **Data Manipulation & Math:** NumPy, Pandas, SciPy
 * **Data Visualization:** Matplotlib, Seaborn
-
-## 🚀 Getting Started
-
-To get a local copy up and running, follow these simple steps.
-
-### Prerequisites
-Make sure you have Python 3.8+ and `pip` installed.
-```bash
-pip install --upgrade pip
-
-**Clone the repo**
-
-git clone [https://github.com/ShivaUlavi/Deep_Learning_Algorithms_Implementation.git](https://github.com/ShivaUlavi/Deep_Learning_Algorithms_Implementation.git)
-
-**Navigate the project Directory**
-
-cd Deep_Learning_Algorithms_Implementation
