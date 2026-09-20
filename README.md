@@ -15,10 +15,6 @@ This repository serves as a comprehensive portfolio of my deep learning journey,
 - [About The Project](#-about-the-project)
 - [Key Implementations](#-key-implementations)
 - [Tech Stack](#%EF%B8%8F-tech-stack)
-- [Getting Started](#-getting-started)
-- [Usage](#-usage)
-- [Future Work](#-future-work)
-- [Let's Connect](#-lets-connect)
 
 ## 💡 About The Project
 
